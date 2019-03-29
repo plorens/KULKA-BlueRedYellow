@@ -1,0 +1,64 @@
+{
+  "size":{
+    "w":30.0,
+    "h":25.0
+  },
+
+  "start":{
+    "x":2.0,
+    "y":2.0
+  },
+
+  "meta":{
+    "x":25.0,
+    "y":22.5
+  },
+
+  "obsticles":[
+	{
+      "type":"rectangle",
+      "x":0.0,
+      "y":10.0,
+      "w":20.0,
+      "h":1.5
+    },
+
+    {
+      "type":"rectangle",
+      "x":10.0,
+      "y":18.5,
+      "w":20.0,
+      "h":1.5
+    },
+  ],
+
+  "minusgravityfields":[
+	{
+      "type":"rectangle",
+      "x":20.0,
+      "y":0.0,
+      "w":10.0,
+      "h":11.5
+    },
+  ],
+
+   "plusgravityfields":[
+	{
+      "type":"rectangle",
+      "x":0.0,
+      "y":18.5,
+      "w":10.0,
+      "h":6.5
+    },
+  ],
+
+  "increaseballfields":[
+	{
+      "type":"rectangle",
+      "x":10.0,
+      "y":11.5,
+      "w":10.0,
+      "h":7.0
+    },
+  ]
+}

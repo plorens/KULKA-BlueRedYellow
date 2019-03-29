@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="[KULKA]BlueRedYellow">
+    <output-path>$PROJECT_DIR$/out/artifacts/_KULKA_BlueRedYellow</output-path>
+    <root id="archive" name="[KULKA]BlueRedYellow.jar">
+      <element id="library" level="project" name="lib" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Desktop" />
+    </root>
+  </artifact>
+</component>
